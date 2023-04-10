@@ -1,1 +1,1 @@
-# CS646_Lab3_JokesApp
+# CS646_Lab3_motivationalApp
